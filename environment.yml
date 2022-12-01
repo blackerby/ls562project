@@ -1,0 +1,5 @@
+name: ls562
+channels:
+  - conda-forge
+dependencies:
+  - spacy
