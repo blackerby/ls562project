@@ -1,0 +1,5 @@
+install.packages("tidyverse")
+install.packages("tidytext")
+install.packages("topicmodels")
+install.packages("ggplot2")
+install.packages("RColorBrewer")
