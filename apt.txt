@@ -1,1 +1,2 @@
 libgsl0-dev
+libglpk.so.40
